@@ -1,0 +1,28 @@
+[
+  {
+    "name": "X",
+    "link": "https://twitter.com/ATRIUM_EU",
+    "image": "images/social/x.svg"
+  },
+  {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/company/atrium-advancing-frontier-research-in-the-arts-humanities/",
+      "image": "images/social/linkedin.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:info@atrium-research.eu ",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/@ATRIUM-EU",
+      "image": "images/social/youtube.svg"
+  },
+  {
+      "name": "Bluesky",
+      "link": "https://bsky.app/profile/atrium-eu.bsky.social",
+      "image": "images/social/bluesky.svg"
+  }
+
+]

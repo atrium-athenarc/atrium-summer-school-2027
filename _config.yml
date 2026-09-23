@@ -1,0 +1,65 @@
+baseurl: "/atrium-summer-school-2026"
+url: "https://atrium-athenarc.github.io"
+title: Language Technology and Artificial Intelligence for Digital Humanities
+description: This is the website for the Atrium project's TNA Summer Schools held in Greece.
+theme: null
+
+logo:
+  mobile: "images/logo/logo.png"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.png"
+  desktop_height: "32px"
+  desktop_width: "120px"
+logos:
+  - src: "images/logo/logo.png"
+    width: "120px"
+    height: "auto"
+    link: "/"
+  - src: "images/logo/logo_clarinel.png"
+    width: "120px"
+    height: "auto"
+    link: "https://www.clarin.gr"
+  - src: "images/logo/logo_athena.png"
+    width: "180px"
+    height: "auto"
+    link: "https://www.athenarc.gr"
+home:
+  limit_services: 6
+
+collections:
+  topics:
+    output: true
+    sort_by: weight
+  team:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+# plugins:
+#  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
