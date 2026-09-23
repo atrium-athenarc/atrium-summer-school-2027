@@ -1,8 +1,8 @@
 ---
-title: Atrium Greece Summer School 2026
+title: Atrium Greece Summer School 2027
 layout: home
 description: This is the website for the Atrium project's TNA Summer Schools held in Greece.
-intro_image: "images/illustrations/teaching.svg"
+intro_image: "images/illustrations/school.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
