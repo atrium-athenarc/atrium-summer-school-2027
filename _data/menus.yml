@@ -2,18 +2,18 @@ main:
   - name: "Apply"
     url: "/apply"
     weight: 4
-  - name: "Programme"
-    url: "/programme"
-    weight: 5
+  # - name: "Programme"
+  #  url: "/programme"
+  #  weight: 5
   - name: "About"
     url: "/about"
     weight: 2
   - name: "CLARIN:EL"
     url: "/clarinel"
     weight: 3
-  - name: "Speakers"
-    url: "/speakers"
-    weight: 6
+  # - name: "Speakers"
+  #  url: "/speakers"
+  #  weight: 6
   - name: "Contact"
     url: "/contact"
     weight: 7
