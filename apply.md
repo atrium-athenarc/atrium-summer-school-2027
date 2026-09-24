@@ -5,8 +5,7 @@ description: Apply
 bodyClass: page-apply
 ---
 
-<b>Applications are now closed.</b>
+<b>The 6th and Final Call for TNA Applications is now open and will close on the 30th November!</b>
 <br/>
-The deadline for submitting applications has passed. Thank you for your interest in the ATRIUM Summer School 2026.
-
-For more information, please see <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools. </a>
+Apply directly through the online form <a href="https://docs.google.com/forms/d/e/1FAIpQLSctI5Dw7VhUmVKQxSj7lPwGWCvEKU3oI5YlRi0Y1MihDKTXGg/viewform" target="_blank">here.</a>
+For more information on the application process, including eligibility and evaluation criteria, please see the <a href="https://atrium-research.eu/transnational-access-scheme-application-process-summer-schools" target="_blank">Application Process page.</a>
