@@ -16,4 +16,5 @@ show_call_box: true
 **Dates**:  14-18 June 2027<br>
 **Number of participants**: max 15<br>
 **Apply**: <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools</a><br>
+**Application deadline: 30 November 2026** <br>
  
