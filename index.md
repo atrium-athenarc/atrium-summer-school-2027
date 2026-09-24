@@ -13,7 +13,7 @@ show_call_box: true
 ## Summer school organized by CLARIN:EL Infrastructure, Institute for Language Speech Processing / Athena Research Center
 
 **Location**: Athens, Greece<br>
-**Dates**:  TBA<br>
+**Dates**:  14-18 June 2027<br>
 **Number of participants**: max 15<br>
-**Apply**: TBA<br>
+**Apply**: <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools</a><br>
  
